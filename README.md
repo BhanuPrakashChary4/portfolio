@@ -1,15 +1,8 @@
-**Expert**: Technical Writer
-**Objective**: Create a detailed README file for the React portfolio project, ensuring it provides all necessary information for understanding, installing, and running the project.
-**Assumptions**: The user intends to share this project on a platform like GitHub, and the README should be comprehensive and professional.
-
-Here's the README file for your React portfolio project:
-
----
-
 # My Portfolio
 
 This is a personal portfolio website built using React and Tailwind CSS. The website showcases my projects, skills, and provides a way to contact me.
 
+![heropage](Images/heropage.png)
 ## Table of Contents
 
 - [Features](#features)
@@ -22,13 +15,12 @@ This is a personal portfolio website built using React and Tailwind CSS. The web
 - [Acknowledgements](#acknowledgements)
 
 ## Features
-
 - Responsive design
 - Light and dark mode toggle
 - Smooth scrolling navigation
 - Downloadable resume
 - Dynamic project cards
-
+![responsive](Images/responsive.png)
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
@@ -78,6 +70,8 @@ The `Portfolio` component showcases different projects with dynamic project card
 ### Skills
 
 The `Skills` component lists the various skills.
+![[skills.png]]
+![alt text](Images/skills.png)
 
 ### Contact
 
@@ -107,7 +101,7 @@ You can customize various aspects of the portfolio:
 2. **Projects:**
 
 - Update the `projects` array in the `Cards` component with your own projects, descriptions, and images.
-
+![projects](Images/projects.png)
 3. **Skills:**
 
 - Add or remove skills in the `Skills` component as needed.
