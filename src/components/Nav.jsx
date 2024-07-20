@@ -1,4 +1,5 @@
 import { Link } from "react-scroll";
+import logo from "../assets/logo.png"
 
 export function Nav() {
   return (
@@ -10,7 +11,7 @@ export function Nav() {
               <div className="shrink-0 flex w-48 items-center py-5 text-white">
                 <img
                   className="h-8 w-44 font-bold  "
-                  src="/your-logo.png"
+                  src=''
                   alt="Bhanu Prakash Chary"
                 />
               </div>
